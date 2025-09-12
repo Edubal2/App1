@@ -3,16 +3,4 @@
 
 MIAU
 ### no
-## no 
-## siiisisissdsdsd
-## me gustan las tetas y a ti?
-dbasodbajodbjaodaçdgsgsgsddgs
-
-
-
-
-
-Mi primo Lucas
-
-
-Mi primo Lucas tercero
+Hola chavales soy Sergio
