@@ -13,4 +13,10 @@ Hola soy Sexo despues de pull
 
 Prueba 4 push pull 
 
+
 Prueba rama delicado
+
+Sergio acaba de hacer una rama to guapa
+Y ahora ha hecho 2 commit sseguidos woaw
+Ahora voy a publicar la rama por segunda vez uf
+
