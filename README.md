@@ -14,9 +14,13 @@ Hola soy Sexo despues de pull
 Prueba 4 push pull 
 
 
+
+Prueba rama delicado
+
 Rama Eduard 
 
 otro comit a la rama eduard
+
 
 Sergio acaba de hacer una rama to guapa
 Y ahora ha hecho 2 commit sseguidos woaw
