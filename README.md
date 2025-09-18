@@ -27,5 +27,11 @@ Y ahora ha hecho 2 commit sseguidos woaw
 Ahora voy a publicar la rama por segunda vez uf
 
 ##Eurovisión 2016!
+ 
 
 FUCK Eurovision 
+
+Pull request delicado
+
+Pull request Eduard
+
